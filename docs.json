@@ -16,6 +16,13 @@
           "index",
           "quickstart"
         ]
+      },
+      {
+        "group": "Internal",
+        "pages": [
+          "guides/internal-setup",
+          "guides/internal-api"
+        ]
       }
     ],
     "global": {
