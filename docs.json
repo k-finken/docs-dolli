@@ -19,6 +19,7 @@
       },
       {
         "group": "Internal",
+        "public": true,
         "pages": [
           "guides/internal-setup",
           "guides/internal-api"
